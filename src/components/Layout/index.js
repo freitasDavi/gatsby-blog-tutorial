@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import './layout.css';
 
-import Nav from './Nav';
+import Nav from '../Nav';
 
 const Layout = ({ children }) => (
     <div className="layout">
